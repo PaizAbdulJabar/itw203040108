@@ -1,0 +1,32 @@
+Font: Fontawesome= all.min
+sumber:https://fontawesome.com/download
+
+Gambar slider
+sumber:https://unsplash.com/
+
+gambar Official brand
+gambar 05(coler master), sumber:https://www.kindpng.com/imgv/hThhRRR_thumb-image-cooler-master-logo-png-transparent-png/
+gambar 08 (acer), sumber:https://www.kindpng.com/free/logo-acer
+gambar 01 ( intel), sumber:https://p.kindpng.com/picc/s/214-2147527_intel-png-transparent-image-intel-png-download.png
+gambar 02 (amd), sumber:https://p.kindpng.com/picc/s/214-2147603_advanced-micro-devices-hd-png-download.png
+gambar 03 (adata), sumber:https://p.kindpng.com/picc/s/386-3862557_adata-logo-logo-adata-png-transparent-png.png
+gambar 04 (nvidia), sumber:https://p.kindpng.com/picc/s/147-1474623_nvidia-logo-hd-png-download.png
+gambar 06 (asus), sumber:https://p.kindpng.com/picc/s/187-1871079_asus-logo-transparent-image-transparent-background-asus-logo.png
+gambar 07 (msi), sumber:https://p.kindpng.com/picc/s/105-1055972_msi-gaming-logo-png-transparent-png.png
+
+
+gambar store
+gambar lazada, sumber:https://seeklogo.com/images/L/lazada-logo-49FB83D17E-seeklogo.com.png
+gamabr shopee, sumber:https://seeklogo.com/images/S/shopee-logo-9143622F5F-seeklogo.com.png
+gambar blibli, sumber: https://seeklogo.com/images/B/blibli-logo-BBC7270E6F-seeklogo.com.png
+
+gambar kategori:
+notebook, sumber:https://assets.enterkomputer.com/frontend/category/notebook.png
+Processor, sumber:https://assets.enterkomputer.com/frontend/category/processor.png
+Motherboard, sumber:https://assets.enterkomputer.com/frontend/category/motherboard.png
+Vga, Sumber:https://assets.enterkomputer.com/frontend/category/vga.png
+Hard drive, sumber:https://assets.enterkomputer.com/frontend/category/harddrive.png
+ssd, sumber:https://assets.enterkomputer.com/frontend/category/ssd.png
+Ram,sumber:https://assets.enterkomputer.com/frontend/category/ram.png
+Psu, Sumber:https://assets.enterkomputer.com/frontend/category/psu.png 
+

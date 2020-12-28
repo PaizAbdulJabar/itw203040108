@@ -1,0 +1,77 @@
+.slider h3,
+.slider h5,
+.clientsh3 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.store img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,o.8));
+}
+
+section, footer {
+    padding: 5px 0;
+}
+
+
+.program {
+    margin-bottom: 50px;
+}
+
+.list-prodi {
+    float: left;
+}
+
+.prodi {
+    width: 100px;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    padding: 10px;
+}
+
+.prodi img {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid black;
+    position: relative;
+    transition: all .3s ease;
+}
+
+.prodi p {
+    width: 100%;
+    position: absolute;
+    font-size: 20px;
+    opacity: 0;
+    z-index: 1500;
+    transition: all .5s ease;
+    bottom: -80px;
+}
+
+.prodi:hover img {
+    border: 5px solid black;
+    box-shadow: 0 0 100px rgba(0, 0, 0, .5);
+    z-index: 1000;
+    transform: scale(1.3);
+    filter: sepia(100%);
+    opacity: 50%;
+}
+
+.prodi:hover p {
+    opacity: 1;
+    bottom: -10px;
+}
+
+.clear {
+    clear: both;
+}
